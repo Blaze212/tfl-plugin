@@ -1,6 +1,6 @@
 # tfl
 
-The Fractional Life — workspace bootstrap + methodology skills for TFL Beta.
+The Fractional Lever — workspace bootstrap + methodology skills for TFL Beta.
 
 ## What this plugin does
 
@@ -49,7 +49,8 @@ Every hosted **workflow** (as opposed to a single methodology skill) gets a matc
 plugin **pointer skill** under `skills/<workflow-name>/SKILL.md`. The pointer skill carries
 no methodology of its own — its only job is to give the member slash completion (e.g.
 `/tfl:tfl-build-value-add`) and tell Claude to call the hosted tool by name. The hosted
-tool's server-side prompt remains the single source of truth for the workflow's process; the pointer skill must never
+tool's server-side prompt (sourced verbatim from `forKatie/TFL Skill Repo/workflows/`)
+remains the single source of truth for the workflow's process; the pointer skill must never
 duplicate or paraphrase it. `tfl-build-value-add` is the first instance of this convention;
 apply it to every future hosted workflow.
 
