@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tfl": {
+      "type": "http",
+      "url": "https://ktazhzplyhpqayjaghur.supabase.co/functions/v1/tfl-mcp/mcp"
+    }
+  }
+}

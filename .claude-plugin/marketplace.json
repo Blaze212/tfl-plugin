@@ -1,0 +1,11 @@
+{
+  "name": "tfl",
+  "owner": { "name": "CM Career Systems" },
+  "plugins": [
+    {
+      "name": "tfl",
+      "source": "./plugins/tfl",
+      "description": "The Fractional Lever — workspace bootstrap + methodology skills for TFL Beta."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "tfl": { "type": "http", "url": "<TFL_MCP_CONNECTOR_URL>" }
+  }
+}
