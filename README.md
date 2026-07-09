@@ -1,6 +1,6 @@
 # tfl-plugin
 
-Public distribution point for the **TFL** Claude Code plugin — _The Fractional Lever_
+Public distribution point for the **TFL** Claude Code plugin — _The Fractional Life_
 workspace bootstrap + methodology skills for TFL Beta.
 
 This repository is a **mirror**. Its contents are generated automatically from CM Career
@@ -33,4 +33,4 @@ updates on demand with:
 ## License
 
 © CM Career Systems. All rights reserved. This content is published for distribution to
-TFL Beta members and is not licensed for redistribution or reuse.
+TFL members and is not licensed for redistribution or reuse.
